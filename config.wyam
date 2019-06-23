@@ -3,6 +3,6 @@
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "transmelbourne.org";
 Settings[BlogKeys.Title] = "TransMelbourne";
-Settings[BlogKeys.Description] = "Transgender resources for Melbourne!";
+Settings[BlogKeys.Description] = "Melbourne Transgender Resources!";
 
 // Add any pipeline customizations here
